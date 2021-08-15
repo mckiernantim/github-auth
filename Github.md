@@ -13,6 +13,9 @@ In order to fix our github we need to perform the folliwing:
 
    ### navigate to our github account: https://github.com/
    ### Access `my account` >>> `settings` >>> `Developer settings` >>>  `Personal Access`
+   <img width="239" alt="Screen Shot 2021-08-15 at 1 26 08 PM" src="https://user-images.githubusercontent.com/38140787/129493948-67dd6487-8c12-4bff-9f42-7e5fd8831f88.png">
+<img width="290" alt="Screen Shot 2021-08-15 at 1 26 18 PM" src="https://user-images.githubusercontent.com/38140787/129493950-2434bb6f-c2f9-4f81-9d17-3626838aae4d.png">
+
    ### Click `GENERATE NEW TOKEN` - should be something like : `ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta`
    ### COPY the token AND SAVE IT SOMEWHERE SECURE - github WILL NOT allow you to see this token again
    ### For MAC OS users - open finder and search `Keychain access` and open the app
