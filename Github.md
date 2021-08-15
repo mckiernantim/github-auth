@@ -23,7 +23,7 @@ In order to fix our github we need to perform the folliwing:
     * When prompted - enter your `github username` and paste the new `access token` for your password
     * Conquer the tech industry as you see fit
 
-Keep in mind that your access key will only last for 30 days and we will need to be updated monthly perfmoing the abovementioned steps.
+Keep in mind that your access key will only last for 30 days and we will need to be updated monthly perfmoing the abovementioned steps.  Happy Hacking ya'll!
 
 
 
