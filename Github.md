@@ -3,6 +3,30 @@
 
 
 On August 13th Github offically depreceated the support for password authentication.  This means anyone who has tried to push code to git will see the following lovely error
+<img width="973" alt="githubError" src="https://user-images.githubusercontent.com/38140787/129492976-0bc70877-f74d-498e-8edf-f11f5d012832.png">
 
-As a result github users will now need to generate authentication credentials once every month in order to access their repos.
+## Enough talk, Fix my Github.
 
+Ok.  
+
+In order to fix our github we need to perform the folliwing:
+
+    * navigte to our github account: https://github.com/
+    * Access `my account` >>> `settings` >>> `Developer settings` >>>  `Personal Access`
+    * Click `GENERATE NEW TOKEN` - should be something like : `ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta`
+    * COPY the token AND SAVE IT SOMEWHERE SECURE - github WILL NOT allow you to see this token again
+    * For MAC OS users - open finder and search `Keychain access` and open the app
+    * Search for `github.com` 
+    * edit the password to your new key
+    * Navigate to an existing repo and paste the following command to reset credentials `$ echo url=https://account@github.com | git credential reject`
+    * Commit some changes - add and push.  
+    * When prompted - enter your `github username` and paste the new `access token` for your password
+    * Conquer the tech industry as you see fit
+
+Keep in mind that your access key will only last for 30 days and we will need to be updated monthly perfmoing the abovementioned steps.
+
+
+
+
+
+<img />
