@@ -1,6 +1,8 @@
 # Migrate to new GITHUB AUTH
 ## What happened to my GITHUB?
 
+
 On August 13th Github offically depreceated the support for password authentication.  This means anyone who has tried to push code to git will see the following lovely error
 
-<img />
+As a result github users will now need to generate authentication credentials once every month in order to access their repos.
+
