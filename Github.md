@@ -11,17 +11,17 @@ Ok.
 
 In order to fix our github we need to perform the folliwing:
 
-    * navigte to our github account: https://github.com/
-    * Access `my account` >>> `settings` >>> `Developer settings` >>>  `Personal Access`
-    * Click `GENERATE NEW TOKEN` - should be something like : `ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta`
-    * COPY the token AND SAVE IT SOMEWHERE SECURE - github WILL NOT allow you to see this token again
-    * For MAC OS users - open finder and search `Keychain access` and open the app
-    * Search for `github.com` 
-    * edit the password to your new key
-    * Navigate to an existing repo and paste the following command to reset credentials `$ echo url=https://account@github.com | git credential reject`
-    * Commit some changes - add and push.  
-    * When prompted - enter your `github username` and paste the new `access token` for your password
-    * Conquer the tech industry as you see fit
+   ### navigate to our github account: https://github.com/
+   ### Access `my account` >>> `settings` >>> `Developer settings` >>>  `Personal Access`
+   ### Click `GENERATE NEW TOKEN` - should be something like : `ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta`
+   ### COPY the token AND SAVE IT SOMEWHERE SECURE - github WILL NOT allow you to see this token again
+   ### For MAC OS users - open finder and search `Keychain access` and open the app
+   ### Search for `github.com` 
+   ### edit the password to your new key
+   ### navigate to an existing repo and paste the following command to reset credentials `$ echo url=https://account@github.com | git credential reject`
+   ### Commit some changes - add and push.  
+   ###  When prompted - enter your `github username` and paste the new `access token` for your password
+   ### Conquer the tech industry as you see fit
 
 Keep in mind that your access key will only last for 30 days and we will need to be updated monthly perfmoing the abovementioned steps.  Happy Hacking ya'll!!
 
