@@ -24,6 +24,7 @@ In order to fix our github we need to perform the folliwing:
    ### COPY the token AND SAVE IT SOMEWHERE SECURE - github WILL NOT allow you to see this token again
    ### For MAC OS users - open finder and search `Keychain access` and open the app
    <img width="738" alt="Screen Shot 2021-08-15 at 1 28 07 PM" src="https://user-images.githubusercontent.com/38140787/129493981-cfdd23fa-d4e8-400c-b77f-d788cde1d659.png">
+   
    ### Search for `github.com` 
    <img width="740" alt="Screen Shot 2021-08-15 at 1 28 16 PM" src="https://user-images.githubusercontent.com/38140787/129493992-762668a2-c4e1-48d6-a8bd-e40aff42bdfc.png">
 
